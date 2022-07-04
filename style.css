@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+a{
+    text-decoration: none;
+    color: rgb(200, 214, 214);
+}
+
 :root{
     scroll-behavior: smooth;
 }
@@ -65,6 +70,7 @@ header{
 
 .spread{
     transform: translate(0);
+    color: rgb(255, 255, 255);
 }
 .menu-nav{
     color: azure;
